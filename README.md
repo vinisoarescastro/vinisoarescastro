@@ -68,6 +68,8 @@ Me chamo Vinicius Soares Castro, tenho 24 anos e sou natural de Goiânia, Goiás
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <table>
