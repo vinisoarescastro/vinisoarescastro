@@ -70,18 +70,25 @@ Me chamo Vinicius Soares Castro, tenho 24 anos e sou natural de Goiânia, Goiás
 
 ### 📊 Estatísticas
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=vinisoarescastro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisoarescastro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=vinisoarescastro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="GitHub Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisoarescastro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
