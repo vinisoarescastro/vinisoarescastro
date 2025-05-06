@@ -2,7 +2,7 @@
 
 <!-- **`Desenvolvedor FullStack`** -->
 
-Me chamo Vinicius Soares Castro, tenho 24 anos e sou natural de Goiânia, Goiás. Concluí o ensino médio no CPMG Hugo de Carvalho Ramos. Atualmente, estou cursando Engenharia de Software na Universidade Federal de Goiás (UFG). Faço parte da Level 5 Empresa Jr., da UFG, onde desenvolvo projetos em Python, Javascript, Bootstrap, HTML, CSS, PowerBI e WordPress. Meu objetivo é me tornar um especialista nas áreas de ciência de dados e desenvolvimento, aplicando tecnologia de forma inovadora para resolver problemas reais e impactar positivamente as pessoas.
+Me chamo Vinicius Soares Castro, tenho 25 anos e sou natural de Goiânia, Goiás. Atualmente, estou cursando Engenharia de Software na Universidade Federal de Goiás (UFG). Faço parte da Level 5 Empresa Jr., da UFG, onde desenvolvo projetos em Python, Javascript, Bootstrap, HTML, CSS, PowerBI e WordPress. Meu objetivo é me tornar um especialista nas áreas de ciência de dados e desenvolvimento, aplicando tecnologia de forma inovadora para resolver problemas reais e impactar positivamente as pessoas.
 
 ---
 
