@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A7EC8&center=true&vWidth=600&lines=Oi%2C+eu+sou+o+Vinicius+%F0%9F%91%8B;Data+Engineer+%7C+Software+Student;Python+%26+Microsoft+Fabric;Goiânia%2C+GO+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A7EC8&center=true&width=600&lines=Oi%2C+eu+sou+o+Vinicius+%F0%9F%91%8B;Data+Engineer+%7C+Software+Student;Python+%26+Microsoft+Fabric;Goi%C3%A2nia%2C+GO+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </div>
 
 ---
@@ -8,7 +8,7 @@
 
 Sou **Data Analyst / Data Engineer** na Buriti Empreendimentos (Grupo Brasil Terrenos), empresa do setor de construção civil em Goiânia com mais de 600 colaboradores. Lido diariamente com arquitetura de dados, pipelines e tomada de decisão baseada em dados.
 
-Curso **Engenharia de Software** na UFG (período noturno) — equilibrando graduação, trabalho e projetos próprios.
+Curso **Engenharia de Software** na UFG (período noturno), equilibrando graduação, trabalho e projetos próprios.
 
 - 🏗️ Implementando arquitetura **medallion (Bronze → Silver → Gold)** com **Microsoft Fabric**
 - 🐍 Python é minha principal ferramenta, de ETL a automações e projetos pessoais
@@ -59,7 +59,7 @@ Curso **Engenharia de Software** na UFG (período noturno) — equilibrando grad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinisoarescastro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soaresvinicus.11)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinisoarescastro@gmail.com)
 
 </div>
 
